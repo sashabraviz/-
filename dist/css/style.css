@@ -858,6 +858,15 @@ body._lock {
   line-height: 1.875rem;
 }
 
+.dishes__body-sub-title img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
 /*=================manu__block ===================*/
 
 .manu {
